@@ -59,4 +59,4 @@ The chart below compares estimated lift across methods vs the true effect:
 - For any meaningful investment decision, a controlled holdout or A/B test is the most reliable way to measure true incremental value.
 
 ### 📂 Files
-incrementality_simulation_and_causal_estimation.ipynb — full analysis
+[incrementality_simulation_and_causal_estimation.ipynb](https://github.com/keira-p/marketing-incrementality/blob/main/notebooks/incrementality_simulation_and_causal_estimation.ipynb) — full analysis
