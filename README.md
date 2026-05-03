@@ -20,7 +20,7 @@ True Lift:  1.00%
 - Attempts to correct for bias using propensity score matching produced an even larger estimate (~5.3ppt), highlighting how sensitive observational methods can be.
 - A randomised A/B test, by contrast, recovered the true effect (~1.1ppt)
 
-#### 🧠 What This Shows
+#### 🧠 What This Shows
 
 - **Correlation ≠ causation** — Higher conversion among exposed users does not imply incremental impact
 - **Selection bias matters** — Higher-intent users are more likely to be targeted
